@@ -24,6 +24,20 @@
 
 **- City**
 
+## | Premium Features |
+**- Coordinates (Longitude | Latitude)**
+
+**- Country**
+
+**- Region**
+
+**- City**
+
+**- | + Access provider | + Google Maps URL |**
+
+### Where to buy?
+**- On store [here](https://fxp.mysellauth.com/) or on discord [here](https://discord.gg/DFruWp6U9x)
+
 <h3 align="center">💶 | 𝗗𝗼𝗻𝗮𝘁𝗶𝗼𝗻𝘀</h3>
 
 **- We will thank all those who donate, and we remind you that he is not obliged to make any! These donations will support us in our projects.**
