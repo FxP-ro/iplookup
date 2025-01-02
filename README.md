@@ -36,7 +36,7 @@
 **- | + Access provider | + Google Maps URL |**
 
 ### Where to buy?
-**- On store [here](https://fxp.mysellauth.com/) or on discord [here](https://discord.gg/DFruWp6U9x)
+**- On store [here](https://fxp.mysellauth.com/) or on discord [here](https://discord.gg/DFruWp6U9x)**
 
 <h3 align="center">💶 | 𝗗𝗼𝗻𝗮𝘁𝗶𝗼𝗻𝘀</h3>
 
