@@ -17,9 +17,9 @@
 
 **- Country**
 
-**- City**
+**- Region**
 
-**-
+**- City**
 
 <h3 align="center">💶 | 𝗗𝗼𝗻𝗮𝘁𝗶𝗼𝗻𝘀</h3>
 **- We will thank all those who donate, and we remind you that he is not obliged to make any! These donations will support us in our projects.**
