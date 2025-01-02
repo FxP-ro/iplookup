@@ -1,13 +1,12 @@
-![IpLookup](https://goopics.net/i/agbq1p)
-
-
+![IP](https://i.goopics.net/ggw8xk.png)
+![IP](https://i.goopics.net/wyj1kg.png)
 
 <h1 align="center">💻 | 𝗜𝗣 𝗟𝗼𝗼𝗸𝘂𝗽</h1>
 
 <h2 align="center">❓ | 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻𝘀 | 𝗧𝗿𝗼𝘂𝗯𝗹𝗲</h2>
 
 - **If you have a question about the software (Free - Premium) contact us [here](https://discord.gg/jzmmCkrrU6)**
-- **If you have an error in the tool, contact us quickly [here](https://discord.gg/jzmmCkrrU6) or [here]()**
+- **If you have an error in the tool, contact us quickly [here](https://discord.gg/jzmmCkrrU6) or [here](https://github.com/FxP-ro/iplookup/issues)**
 
 <h2 align="center">📋 | 𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻</h2>
 
@@ -26,7 +25,9 @@
 **- City**
 
 <h3 align="center">💶 | 𝗗𝗼𝗻𝗮𝘁𝗶𝗼𝗻𝘀</h3>
+
 **- We will thank all those who donate, and we remind you that he is not obliged to make any! These donations will support us in our projects.**
+
 
 **- LTC Wallet : LTWGnTWXVLz1qm2JLNTBawSMBkxA65EzJd**
 
