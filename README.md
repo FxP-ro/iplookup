@@ -15,7 +15,7 @@
 
 **- Use pip install -r requirements.txt**
 
-## | Features |
+## | Free Features |
 **- Coordinates (Longitude | Latitude)**
 
 **- Country**
